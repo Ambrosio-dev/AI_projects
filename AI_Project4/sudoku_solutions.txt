@@ -1,0 +1,1 @@
+#txt file full of data about sudoku boards. Should contain a series of boards, each with a start state and goal state
